@@ -26,7 +26,7 @@ The RTSP Streamer is a Python-based application designed to efficiently distribu
 1. Clone the repository to your local machine.
 2. Configure the server IP address and port in the `SERVER_IP` and `SERVER_PORT` variables, respectively.
 3. Ensure that the required dependencies, including OpenCV, are installed.
-4. Run the client script (`rtsp_client.py`) to connect to the server and receive the stream.
+4. Run the client script (`client.py`) to connect to the server and receive the stream.
 
 ## Key Functions
 
